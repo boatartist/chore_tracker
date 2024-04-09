@@ -1,0 +1,12 @@
+You are to design, code and document a software solution for a parent who wants to track chores for their child and needs a way to tally pocket money earned
+
+Things to track:
+	for each child:
+		pocket money earned\
+		tasks completed
+		tasks to complete
+	in general:
+		chores
+		default amount given for each chore
+Tony responses (when they show up):
+
